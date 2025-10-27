@@ -2,7 +2,7 @@
 
 **FNB App of the Year Hackathon 2025**
 
-PowerUp SA is a real-time load shedding assistant app that helps South Africans stay ahead of power outages with personalized schedules, notifications, and community features.
+PowerUp SA is a real-time load-shedding assistant app that helps South Africans stay ahead of power outages with personalized schedules and notifications.
 
 ---
 
